@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Options for creating a new site with Jekyll"
-author: jane
-categories: [ Jekyll, tutorial ]
-image: assets/images/13.jpg
+title:  "Welcome here"
+author: Darley Nguyen
+categories: [Daily]
+image: https://github.com/darleigh/site/blob/main/assets/images/3d/Saly-38.png
 ---
+Starting a new blog can be a daunting task, but it's also an exciting opportunity to share your thoughts, ideas, and experiences with the world. We are thrilled to welcome you to our blog and invite you to join us on this journey of exploration and discovery.
 
-`jekyll new <PATH>` installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called `myblog`. Here are some additional details:
+Our blog is a place for us to share our passion for [insert your niche/topic here] and connect with like-minded individuals who are also interested in this field. We aim to provide informative and engaging content that will inspire and educate our readers.
 
-- To install the Jekyll site into the directory you're currently in, run `jekyll new` . If the existing directory isn't empty, you can pass the --force option with jekyll new . --force.
-- `jekyll new` automatically initiates `bundle install` to install the dependencies required. (If you don't want Bundler to install the gems, use `jekyll new myblog --skip-bundle`.)
-- By default, the Jekyll site installed by `jekyll new` uses a gem-based theme called Minima. With gem-based themes, some of the directories and files are stored in the theme-gem, hidden from your immediate view.
-- We recommend setting up Jekyll with a gem-based theme but if you want to start with a blank slate, use `jekyll new myblog --blank`
-- To learn about other parameters you can include with `jekyll new`, type `jekyll new --help`.
+As we embark on this new venture, we invite you to be a part of our community. We welcome your feedback, suggestions, and ideas for future posts. Our blog is a collaborative space, and we look forward to hearing from you.
+
+Thank you for taking the time to visit our blog. We hope you find our content valuable and enjoyable, and we look forward to sharing our journey with you.
