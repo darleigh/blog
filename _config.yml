@@ -1,9 +1,9 @@
 # Site
 name: 'Duong Nguyen'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-baseurl: '/blog'
+description: 'I genuinely want to use technology in my life to increase efficiency and provide long-term benefit for society.'
+logo: 'https://darleigh.com/darleigh-logo_tran-2401-2236.png'
+favicon: 'https://darleigh.com/assets/images/apple-icon.png'
+baseurl: '/blog/'
 disqus: 'demowebsite'
 email: 'duongnguyen.22@icloud.com'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -23,9 +23,9 @@ authors:
       name:           Duong Nguyen
       site:           https://darleigh.com
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hello"
+      email:          duongnguyen.22@icloud.com
+      # facebook:        https://twitter.com/wowthemesnet
 
     # jane:
     #   name:           Jane
