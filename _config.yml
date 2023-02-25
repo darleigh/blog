@@ -1,8 +1,8 @@
 # Site
 name: 'darleigh.blog'
 description: 'I genuinely want to use technology in my life to increase efficiency and provide long-term benefit for society.'
-logo: 'https://darleigh.com/darleigh-logo_tran-2401-2236.png'
-favicon: 'https://darleigh.com/assets/images/apple-icon.png'
+logo: 'assets/images/avatar/duong.png'
+favicon: ''
 baseurl: '/'
 disqus: 'Valuable insights on knowledge, experience, and adventures.'
 email: 'duongnguyen.22@icloud.com'
@@ -22,7 +22,7 @@ authors:
     sal:
       name:           Duong Nguyen
       site:           https://darleigh.com
-      avatar:         https://github.com/darleigh/site/blob/main/assets/images/avatar/darleigh.jpg?raw=true
+      avatar:         assets/images/avatar/duong.png
       bio:            "Hello"
       email:          duongnguyen.22@icloud.com
       # facebook:        https://twitter.com/wowthemesnet
