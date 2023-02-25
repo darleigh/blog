@@ -1,11 +1,7 @@
 ---
 layout: post
 title:  "Welcome here"
-<<<<<<< HEAD
 author: darley
-=======
-author: Darley Nguyen
->>>>>>> parent of 982748d (Update author)
 categories: [Daily]
 image: https://darleigh.com/assets/images/3d/Saly-38.png
 ---
