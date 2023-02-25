@@ -19,16 +19,16 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    darley:
+    sal:
       name:           Duong Nguyen
       site:           https://darleigh.com
-      avatar:         https://darleigh.com/assets/images/avatar/darleigh.jpg
+      avatar:         https://raw.githubusercontent.com/darleigh/site/main/assets/images/avatar/darleigh.jpg
       bio:            "Hello"
       email:          duongnguyen.22@icloud.com
       # facebook:        https://twitter.com/wowthemesnet
 
-    # darley:
-    #   name:           darley
+    # jane:
+    #   name:           Jane
     #   site:           https://www.wowthemes.net
     #   avatar:         /assets/images/avatar2.jpg
     #   bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"

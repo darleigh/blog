@@ -1,11 +1,14 @@
 layout: post
-------------
-
+---
 title:  "Welcome here"
+<<<<<<< HEAD
 author: darley
+=======
+author: Darley Nguyen
+>>>>>>> parent of 982748d (Update author)
 categories: [Daily]
 image: https://darleigh.com/assets/images/3d/Saly-38.png
---------------------------------------------------------
+---
 
 Blog can be a daunting task, but it's also an exciting opportunity to share your thoughts, ideas, and experiences with the world. We are thrilled to welcome you to our blog and invite you to join us on this journey of exploration and discovery.
 
