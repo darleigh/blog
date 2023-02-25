@@ -2,7 +2,7 @@ layout: post
 ------------
 
 title:  "Welcome here"
-author: Darley
+author: darley
 categories: [Daily]
 image: https://darleigh.com/assets/images/3d/Saly-38.png
 --------------------------------------------------------
