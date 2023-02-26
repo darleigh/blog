@@ -1,10 +1,10 @@
 # Site
 name: 'darleigh.blog'
 description: 'I genuinely want to use technology in my life to increase efficiency and provide long-term benefit for society.'
-logo: 'assets/images/avatar/duong.png'
-favicon: ''
+logo: ''
+favicon: 'assets/images/favicon.ico'
 baseurl: '/'
-disqus: 'Valuable insights on knowledge, experience, and adventures.'
+disqus: 'demowebsite'
 email: 'duongnguyen.22@icloud.com'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
