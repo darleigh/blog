@@ -1,12 +1,10 @@
-> ---
->
-> layout: post
-> title:  "The first step to explore the world"
-> author: darley
-> categories: [Philosophy]
-> image: https://darleigh.com/assets/images/3d/Saly-22.png
->
-> ---
+---
+ layout: post
+ title:  "The first step to explore the world"
+ author: darley
+ categories: [Philosophy]
+ image: https://darleigh.com/assets/images/3d/Saly-22.png
+---
 
 # What is true happiness?
 
@@ -27,4 +25,4 @@ Based on one of the famous quotes of Zen master **[Thich Nhat Hanh](https://tuoi
 
 It means: "*The root of love lies deep within each of us. We can help others be happy. A word, an action, a thought can also alleviate sadness and increase happiness for others.*"
 
-The life is not easy, but let is try to live in a kind anyway, learning from the example of Great Uncle Ho. The great achievements that we reap will bring lasting happiness.
+The life is not easy, but let is try to live in a kind anyway, learning from the example of Great Uncle Ho. The great achievements that we reap will bring lasting happinies
