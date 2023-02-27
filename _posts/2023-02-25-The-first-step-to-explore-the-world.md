@@ -10,7 +10,7 @@ image: https://blog.darleigh.com/assets/images/thien-su-thich-nhat-hanh-vien-tic
 Why do people keep searching for it, keep moving forward, keep looking ahead, and keep getting carried away by the winds of life?
 
 Have you ever heard of the basic humand needs in life? It may be similar to the Maslow model as shown below.
-![Maslow]({{site.baseurl}}/assets/images/Pyramid-Chart-Template-Illustrative-Nature-Infographic.png)
+<!-- ![Maslow]({{site.baseurl}}/assets/images/Pyramid-Chart-Template-Illustrative-Nature-Infographic.png) -->
 
 Yahh, it is what you see, and you can test it yourself. Does it exist in a sustainable way? And how can they be sustained in the long run?
 
