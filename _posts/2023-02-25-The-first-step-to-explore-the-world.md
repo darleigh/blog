@@ -3,7 +3,7 @@ layout: post
 title:  "The first step to explore the world"
 author: darley
 categories: [Philosophy]
-image: https://blog.darleigh.com/assets/images/thien-su-thich-nhat-hanh-vien-tich-16429862753722067288036.jpeg
+image: https://darleigh.com/assets/images/3d/Saly-44.png
 ---
 # What is true happiness?
 
