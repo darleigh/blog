@@ -24,7 +24,7 @@ Coming soon...
 
 # Chapter 2
 <audio controls autoplay>
-  <source style="text-align: center;"src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mp3">
+  <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
 </audio>
 [def]: {https://darleigh.com/assets/images/3d/Saly-19.png}
