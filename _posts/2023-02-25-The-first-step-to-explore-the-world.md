@@ -24,4 +24,5 @@ Based on one of the famous quotes of Zen master **[Thich Nhat Hanh](https://tuoi
 
 It means: "*The root of love lies deep within each of us. We can help others be happy. A word, an action, a thought can also alleviate sadness and increase happiness for others.*"
 
-The life is not easy, but let is try to live in a kind anyway, learning from the example of Great Uncle Ho. The great achievements that we reap will bring lasting happiness ❤️.
+What any thing you do by all your loyah in heart. Although the life is not easy, but let is try to live in a kind anyway, learning from the example of Great Uncle Ho.
+The great achievements that we reap will bring lasting happiness ❤️.
