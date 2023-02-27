@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "What is Business Analyst?"
+title:  "Test"
 author: darley
-categories: [Business Analyst]
+categories: [Test]
 image: https://darleigh.com/assets/images/3d/Saly-19.png
 ---
 
@@ -17,12 +17,12 @@ Coming soon...
 
 ## Test html video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<iframe style="text-align: center;" width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 ## Test html mp3
 
 <audio controls autoplay>
-  <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mp3">
+  <source style="text-align: center;"src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
 </audio>
 [def]: {https://darleigh.com/assets/images/3d/Saly-19.png}
