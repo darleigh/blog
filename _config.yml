@@ -11,7 +11,7 @@ email: 'duongnguyen.22@icloud.com'
 include: ["_pages"]
 permalink:
   /:title/
-  /404.html
+  # /404.html
 
 # Plugins
 plugins: 
@@ -27,7 +27,7 @@ authors:
       avatar:         assets/images/avatar/duong.png
       bio:            "Hello"
       email:          duongnguyen.22@icloud.com
-      facebook:        https://darleigh.com
+      facebook:       https://darleigh.com
 
     jane:
       name:           Jane
