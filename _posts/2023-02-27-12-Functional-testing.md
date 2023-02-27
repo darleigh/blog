@@ -5,9 +5,27 @@ author: darley
 categories: [Test]
 image: https://darleigh.com/assets/images/3d/Saly-19.png
 ---
-  .background{
-    color:black;
-  }
+<style>
+  table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 20px; /* Tùy chỉnh khoảng cách giữa bảng và các phần khác */
+}
+
+table th {
+  border: 1px solid black;
+  background-color: #fff; /* Màu nền trắng cho các ô tiêu đề */
+  font-weight: bold; /* Chữ đậm cho các ô tiêu đề */
+  text-align: center; /* Căn giữa nội dung của các ô tiêu đề */
+  padding: 10px; /* Khoảng cách giữa viền và nội dung của các ô tiêu đề */
+}
+
+table td {
+  border: 1px solid black;
+  text-align: left; /* Căn trái nội dung của các ô nội dung */
+  padding: 10px; /* Khoảng cách giữa viền và nội dung của các ô nội dung */
+}
+</style>
 # Table of content
 
 ## Bảng mục lục
@@ -17,6 +35,11 @@ image: https://darleigh.com/assets/images/3d/Saly-19.png
 
 
 ## Phần 1 {#hello}
+
+| Tiêu đề 1 | Tiêu đề 2 |
+| :---------- | :---------- |
+| Nội dunádasdasdasdasdasdasdg 1 | Nội dungádasdasdasdasdasdsdádasdasd 2 |
+| Nội dung 3 | Nội dung 4 |
 
 
 ## Test html video
