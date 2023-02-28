@@ -3,7 +3,7 @@ layout: post
 title:  "Techniques for Agile Business Analyst"
 author: darley
 categories: [Business Analyst]
-image: {{site.baseurl}}/assets/images/decomposition.png
+image: assets/images/decomposition.png
 ---
 # Product decompostion
 - [Identify and slide user stories](#identify-and-slide-user-stories)
@@ -16,6 +16,7 @@ Agile teams typically focus on products that require decomposition to help plan 
 ![Decomposition in Agile BA]({{site.baseurl}}/assets/images/decomposition.png)
 
 Continue...
-<!-- ## Identify and slide user stories
 
-## Plan by driving the roadmap, release plans, and iteration planning -->
+## Identify and slide user stories
+
+## Plan by driving the roadmap, release plans, and iteration planning 
