@@ -6,7 +6,7 @@ categories: [Business Analyst]
 image: https://darleigh.com/assets/images/3d/Saly-31.png
 ---
 In any exchange, there is value for both parties involved, from each
-person's perspective, in varying degrees. 
+person's perspective, in varying degrees.
 
 **1. Money: Price or Budget.**
 
@@ -40,7 +40,7 @@ Knowing the customer's buying process and segment is crucial, as is asking them 
 
 * Focus on the **financial benefits** and **easy of implementation** .
 * Show how your **offer compares** .
-* Show you can make the change **painless (or reduce risk)**. 
+* Show you can make the change **painless (or reduce risk)**.
 
 Focus on the financial benefits and ease of implementation of your product or service, and show how it compares to the competition. Highlight how you can make the change painless to reduce risk.
 
@@ -52,7 +52,7 @@ Focus on the financial benefits and ease of implementation of your product or se
 
 Gather your thoughts and compare the difference to improve. Give yourself time to examine yourself, and ask for clarification on what the customer means.
 
-**Evaluated Results**
+**6. Evaluated Results**
 
 * Segment Customer.
 * Effective Product.
