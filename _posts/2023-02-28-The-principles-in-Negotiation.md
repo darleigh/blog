@@ -9,7 +9,7 @@ In my view, with any exchange, there is value for both parties involved, from ea
 
 # Index
 
-KEY: **N1-BA-030123.2220**
+ID Number: **N1-BA-030123.2235**
 
 1. [Money: Price or Budget](#1-money-price-or-budget-money)
 2. [Define value and credibility](#2-define-value-and-credibility)
@@ -76,10 +76,10 @@ Gather your thoughts and compare the difference to improve. Give yourself time t
 * Improve error problem.
 
 Segment your customers and focus on an effective product that identifies strengths, weaknesses, opportunities, and threats. Analyze your revenue market and time spent with pending deals, and improve any errors or problems.
-
-[^1]: Business analyst core concept model.
     
 # References
 
-1. LinkedIn Learning, [Become a Sales Representative](https://darleigh.com/assets/images/cert/linkedin_CertificateOfCompletion_Become%20a%20Sales%20Representative.pdf).
-2. IIBA, [BACCM model](https://www.iiba.org/globalassets/standards-and-resources/business-analysis-core-competency-model/files/what-you-need-to-know-about-baccm.pdf)
+- LinkedIn Learning, [Become a Sales Representative](https://darleigh.com/assets/images/cert/linkedin_CertificateOfCompletion_Become%20a%20Sales%20Representative.pdf).
+- IIBA, [BACCM model](https://www.iiba.org/globalassets/standards-and-resources/business-analysis-core-competency-model/files/what-you-need-to-know-about-baccm.pdf)
+
+[^1]: Business analyst core concept model.
