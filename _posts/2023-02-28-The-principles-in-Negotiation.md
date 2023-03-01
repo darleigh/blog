@@ -8,7 +8,9 @@ image: https://darleigh.com/assets/images/3d/Saly-31.png
 In my view, with any exchange, there is value for both parties involved, from each person's perspective, albeit in varying degrees. Especially in a Business Analyst position, we should have clarity in understanding what the customer needs, and what value we can deliver to the stakeholders, similar to **Bloom Taxonomy Model** (a topic describing them and compare them with other models, especially BACCM[^1], which will complete soon).
 
 # Index
+
 KEY: **N1-BA-030123.2220**
+
 1. [Money: Price or Budget](#1-money-price-or-budget-money)
 2. [Define value and credibility](#2-define-value-and-credibility)
 3. [Decistion](#3-decision)
@@ -19,9 +21,10 @@ KEY: **N1-BA-030123.2220**
 ## 1. Money: Price or Budget.
 
 * Get more **detailed information**.
-* Focus on the **value of the product** or **service**, maybe base on the previous packed product | example product and customer satisfaction index.
+* Focus on the **value of the product** or **service**
+* Refer to **previous trial/packed product** and **customer satisfaction index**.
 * Be careful **negotiating price**.
-  Satisfaction ( = quality - expectation).
+* Satisfaction = Product Quality - Expectation Product
 
 When it comes to exchanging money for a product or service, it's important to gather as much information as possible, focusing on the value that we can provide with product or service provides, or customer satisfaction index. However, be careful when negotiating the price, as satisfaction is based on the quality of the product or service minus the customer's expectations.
 
@@ -74,8 +77,9 @@ Gather your thoughts and compare the difference to improve. Give yourself time t
 
 Segment your customers and focus on an effective product that identifies strengths, weaknesses, opportunities, and threats. Analyze your revenue market and time spent with pending deals, and improve any errors or problems.
 
-[^1]: Business analyst core concept model base on IIBA.
-
+[^1]: Business analyst core concept model.
+    
 # References
 
-1. LinkedIn Learning,[Become a Sales Representative](https://darleigh.com/assets/images/cert/linkedin_CertificateOfCompletion_Become%20a%20Sales%20Representative.pdf).
+1. LinkedIn Learning, [Become a Sales Representative](https://darleigh.com/assets/images/cert/linkedin_CertificateOfCompletion_Become%20a%20Sales%20Representative.pdf).
+2. IIBA, [BACCM model](https://www.iiba.org/globalassets/standards-and-resources/business-analysis-core-competency-model/files/what-you-need-to-know-about-baccm.pdf)
