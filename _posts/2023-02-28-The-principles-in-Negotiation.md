@@ -50,7 +50,7 @@ Knowing the customer's buying process and segment is crucial, as is asking them 
 ## 4. Assistance.
 
 * Focus on the **financial benefits** and **easy of implementation** .
-* Show how your **offer compares** .
+* Show how your **offer compares**.
 * Show you can make the change **painless (or reduce risk)**.
 
 Focus on the financial benefits and ease of implementation of your product or service, and show how it compares to the competition. Highlight how you can make the change painless to reduce risk.
@@ -80,6 +80,6 @@ Segment your customers and focus on an effective product that identifies strengt
 # References
 
 - LinkedIn Learning, [Become a Sales Representative](https://darleigh.com/assets/images/cert/linkedin_CertificateOfCompletion_Become%20a%20Sales%20Representative.pdf).
-- IIBA, [BACCM model](https://www.iiba.org/globalassets/standards-and-resources/business-analysis-core-competency-model/files/what-you-need-to-know-about-baccm.pdf)
+- International Insitute of Business Analyst, [BACCM model](https://www.iiba.org/globalassets/standards-and-resources/business-analysis-core-competency-model/files/what-you-need-to-know-about-baccm.pdf).
 
 [^1]: Business analyst core concept model.
