@@ -11,11 +11,8 @@ Why do people keep searching for it, keep moving forward, keep looking ahead, an
 
 Have you ever heard of the basic humand needs in life? It may be similar to the **Maslow model** as shown below.
 
-<div style="text-align: center;">
-
 ![Maslow model](https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2019/04/20073102/Untitled.jpg)
 
-</div>
 
 Yahh, it is what you see, and you can test it yourself. Does it exist in a sustainable way? And how can they be sustained in the long run?
 
