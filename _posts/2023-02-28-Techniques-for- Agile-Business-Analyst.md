@@ -10,8 +10,8 @@ image: assets/images/decomposition.png
 ID Number: **T-BA-030423**
 
 1. [Product decomposition (T1BA)](#product-decompostion)
-    - [Identify and slide user stories(T11BA)](#identify-and-slide-user-stories)
-    - [Plan by dringving the roadmap, release plans, and iteration planning(T12BA)](#plan-by-driving-the-roadmap-release-plans-and-iteration-planning)
+    - [Identify and slide user stories](#identify-and-slide-user-stories)
+    - [Plan by dringving the roadmap, release plans, and iteration planning](#plan-by-driving-the-roadmap-release-plans-and-iteration-planning)
 2. [Context techniques (T21BA)]()
     - [Context diagram (T22BA)]()
     - [Process model (T23BA)]()
