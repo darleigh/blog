@@ -3,7 +3,7 @@ layout: post
 title:  "Techniques for Agile Business Analyst"
 author: darley
 categories: [Business Analyst]
-image: assets/images/decomposition.png
+image: assets/images/study_example1.jpg
 ---
 # Index
 
@@ -21,8 +21,8 @@ ID Number: **TBA-030423**
 3. [User stories (TU1BA)]()
 4. [Acceptance criteria (T4BA)]()
 5. [User story map (T5BA)]()
-6. [Story slicing &amp; splitting (T6BA)]()
-7. [Lightwiegh &amp; modeling (T7BA)]()
+6. [Story slicing and spliting; splitting (T6BA)]()
+7. [Lightweigh modeling; modeling (T7BA)]()
 
 # Product decompostion
 
@@ -32,8 +32,6 @@ ID Number: **TBA-030423**
 Do you create a prioritized list of detailed improvement ideas and what if you mapped it to their associated features and values? Of course, this would be beneficial and it is similar to the process used by Agile teams for product decomposition.
 
 Agile teams typically focus on products that require decomposition to help plan and manage improvements. Product decomposition, sometimes referred to as a product hierarchy or product map, is similar to functional decomposition used by traditional teams.
-
-![Decomposition in Agile BA]({{site.baseurl}}/assets/images/TBA_Usestory.png)
 
 ## Identify and slide user stories
 
