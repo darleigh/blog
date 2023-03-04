@@ -7,22 +7,22 @@ image: assets/images/decomposition.png
 ---
 # Index
 
-ID Number: **T-BA-030423**
+ID Number: **TBA-030423**
 
 1. [Product decomposition (T1BA)](#product-decompostion)
-    - [Identify and slide user stories](#identify-and-slide-user-stories)
-    - [Plan by dringving the roadmap, release plans, and iteration planning](#plan-by-driving-the-roadmap-release-plans-and-iteration-planning)
+   - [Identify and slide user stories](#identify-and-slide-user-stories)
+   - [Plan by dringving the roadmap, release plans, and iteration planning](#plan-by-driving-the-roadmap-release-plans-and-iteration-planning)
 2. [Context techniques (T21BA)]()
-    - [Context diagram (T22BA)]()
-    - [Process model (T23BA)]()
-    - [Data flow diagrams (T24BA)]()
-    - [Customer journey map (T25BA)]()
-    - [User story map (T26BA)]()
+   - [Context diagram (T22BA)]()
+   - [Process model (T23BA)]()
+   - [Data flow diagrams (T24BA)]()
+   - [Customer journey map (T25BA)]()
+   - [User story map (T26BA)]()
 3. [User stories (TU1BA)]()
 4. [Acceptance criteria (T4BA)]()
 5. [User story map (T5BA)]()
-6. [Story slicing & splitting (T6BA)]()
-7. [Lightwiegh & modeling (T7BA)]()
+6. [Story slicing &amp; splitting (T6BA)]()
+7. [Lightwiegh &amp; modeling (T7BA)]()
 
 # Product decompostion
 
@@ -33,12 +33,14 @@ Do you create a prioritized list of detailed improvement ideas and what if you m
 
 Agile teams typically focus on products that require decomposition to help plan and manage improvements. Product decomposition, sometimes referred to as a product hierarchy or product map, is similar to functional decomposition used by traditional teams.
 
-![Decomposition in Agile BA](assets/images/decomposition.png)
+![Decomposition in Agile BA]({{site.baseurl}}/assets/images/TBA_Usestory.png)
 
 ## Identify and slide user stories
+
 To follow user stories with each area. The visual creates a shared understanding that help the team split the user-stories, define increments of value and map defects.
 
 ## Plan by driving the roadmap, release plans, and iteration planning
+
 In addition, the decomposit assists the team with alignment. It help everone see where the money is spent, and analyze if the work aligns with the customers needs and organizational stragecy.
 
 DROP...
