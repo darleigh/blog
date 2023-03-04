@@ -3,7 +3,7 @@ layout: post
 title:  "Techniques for Agile Business Analyst"
 author: darley
 categories: [Business Analyst]
-image: assets/images/study_example1.jpg
+image: assets/images/study_example1.jpeg
 ---
 # Index
 
