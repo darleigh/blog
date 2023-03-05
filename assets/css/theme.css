@@ -155,7 +155,7 @@ a.text-dark:hover {
 	box-shadow:none;
 }
 .btn-link.btn-primary {
-	color:#black;
+	color: black;
 	border-color:transparent;
 }
 .btn-link.btn-secondary {
@@ -171,11 +171,11 @@ a.text-dark:hover {
 	border-color:transparent;
 }
 .btn-link.btn-warning {
-	color:#ffde03;
+	color:#ffcc00;
 	border-color:transparent;
 }
 .btn-link.btn-danger {
-	color:#ea2f65;
+	color:#FF3B30;
 	border-color:transparent;
 }
 .btn-link.btn-light {
@@ -183,7 +183,7 @@ a.text-dark:hover {
 	border-color:transparent;
 }
 .btn-link.btn-dark {
-	color:#212529;
+	color:#black;
 	border-color:transparent;
 }
 .btn-link.btn-white {
@@ -191,11 +191,11 @@ a.text-dark:hover {
 	border-color:transparent;
 }
 .btn-link.btn-purple {
-	color:#ad6edd;
+	color:#AF52DE;
 	border-color:transparent;
 }
 .btn-link.btn-salmon {
-	color:#ff977a;
+	color:#FF9500;
 	border-color:transparent;
 }
 .btn-link.btn-cyan {
@@ -203,19 +203,19 @@ a.text-dark:hover {
 	border-color:transparent;
 }
 .btn-link.btn-gray {
-	color:#ced4da;
+	color:#E5E5EA;
 	border-color:transparent;
 }
 .btn-link.btn-indigo {
-	color:#502c6c;
+	color:#5856D6;
 	border-color:transparent;
 }
 .btn-link.btn-orange {
-	color:#fbb500;
+	color:#FF9500;
 	border-color:transparent;
 }
 .btn-link.btn-lightblue {
-	color:#e8f3ec;
+	color:#f2f5f7;
 	border-color:transparent;
 }
 .btn-white {
