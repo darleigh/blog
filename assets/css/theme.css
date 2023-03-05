@@ -1,6 +1,34 @@
 /*!
  * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
  */
+ table {
+	border-collapse: collapse;
+	width: 100%;
+	max-width: 100%;
+	margin-bottom: 1.5rem;
+	background-color: transparent;
+	color: inherit;
+	font-size: inherit;
+	line-height: inherit;
+	border-spacing: 0;
+	border-color: #dee2e6;
+  }
+  
+  table th {
+	font-weight: 600;
+  }
+  
+  table td,
+  table th {
+	padding: 0.75rem;
+	vertical-align: top;
+	border-top: 1px solid #dee2e6;
+  }
+  
+  table th {
+	text-align: inherit;
+	border-bottom: 2px solid #dee2e6;
+  }
 
 body {
 	overflow-x:hidden;
@@ -31,10 +59,10 @@ a,a:hover {
 	text-decoration:none;
 }
 a {
-	color:#03a87c;
+	color:#202E7D;
 }
 a.text-dark:hover {
-	color:#03a87c !important;
+	color:#202E7D !important;
 }
 .c-pointer:hover {
 	cursor:pointer;
@@ -112,7 +140,7 @@ a.text-dark:hover {
 	box-shadow:none;
 }
 .btn-link.btn-primary {
-	color:#03a87c;
+	color:#202E7D;
 	border-color:transparent;
 }
 .btn-link.btn-secondary {
@@ -120,7 +148,7 @@ a.text-dark:hover {
 	border-color:transparent;
 }
 .btn-link.btn-success {
-	color:#03a87c;
+	color:#202E7D;
 	border-color:transparent;
 }
 .btn-link.btn-info {
@@ -192,14 +220,14 @@ a.text-dark:hover {
 	font-weight:400;
 }
 .navbar .highlight .nav-link {
-	color:#03a87c !important;
-	border:1px solid #03a87c;
+	color:#202E7D !important;
+	border:1px solid #202E7D;
 	padding:0.3rem 1rem;
 	border-radius:3px;
 	font-size:.93rem;
 }
 .navbar .highlight .nav-link:hover {
-	background:#03a87c;
+	background:#202E7D;
 	color:#fff !important;
 }
 .navbar-brand {
@@ -334,13 +362,13 @@ a.text-dark:hover {
 	background-color:rgba(23,29,90,0.5);
 }
 .bg-primary {
-	fill:#03a87c !important;
+	fill:#202E7D !important;
 }
 .bg-secondary {
 	fill:#7832e2 !important;
 }
 .bg-success {
-	fill:#03a87c !important;
+	fill:#202E7D !important;
 }
 .bg-info {
 	fill:#09ebaf !important;
@@ -407,7 +435,7 @@ a.text-dark:hover {
 }
 .card a:hover {
 	text-decoration:none;
-	color:#03a87c;
+	color:#202E7D;
 }
 .card-pricing .card ul li {
 	margin-bottom:1.5rem;
@@ -437,8 +465,8 @@ a.text-dark:hover {
 }
 .alert-primary {
 	color:#fff;
-	background-color:#03a87c;
-	border-color:#03a87c;
+	background-color:#202E7D;
+	border-color:#202E7D;
 }
 .alert-primary hr {
 	border-top-color:#038f6a;
@@ -459,8 +487,8 @@ a.text-dark:hover {
 }
 .alert-success {
 	color:#fff;
-	background-color:#03a87c;
-	border-color:#03a87c;
+	background-color:#202E7D;
+	border-color:#202E7D;
 }
 .alert-success hr {
 	border-top-color:#038f6a;
@@ -803,4 +831,3 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
- 

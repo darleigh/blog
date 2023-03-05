@@ -17,7 +17,7 @@ ID Number: **TBA-030423**
    - [Process model (T23BA)]()
    - [Data flow diagrams (T24BA)]()
    - [Customer journey map (T25BA)]()
-   - [User story map (T26BA)]()  
+   - [User story map (T26BA)]() 
 3. [User stories (TU1BA)]()
 4. [Acceptance criteria (T4BA)]()
 5. [User story map (T5BA)]()
