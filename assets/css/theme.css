@@ -1,6 +1,49 @@
 /*!
  * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
  */
+ table {
+	border-collapse: collapse;
+	width: 100%;
+	max-width: 100%;
+	margin-bottom: 24px;
+	background-color: transparent;
+	color: #333;
+	font-size: 16px;
+	line-height: 1.5;
+	/* border-radius: 2px; */
+	overflow: hidden;
+	/* box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1); */
+  }
+  
+  th,
+  td {
+	padding: 16px;
+	vertical-align: top;
+	text-align: left;
+	border-top: 1px solid #e1e1e1;
+  }
+  
+  th {
+	font-weight: 600;
+	border-bottom: 1px solid #000;
+  }
+  
+  /* tr:nth-of-type(even) td {
+	background-color: #f7f7f7;
+  } */
+  
+  td:first-of-type {
+	font-weight: 600;
+  }
+  
+  tr:last-child td:first-child {
+	border-bottom-left-radius: 2px;
+  }
+  
+  tr:last-child td:last-child {
+	border-bottom-right-radius: 2px;
+  }
+
 body {
 	overflow-x:hidden;
 	padding-top:69.75px;
@@ -14,6 +57,7 @@ body {
 }
 img {
 	max-width:100%;
+	text-align: center;
 }
 .tofront {
 	position:relative;
@@ -34,6 +78,7 @@ a {
 }
 a.text-dark:hover {
 	color:#202E7D !important;
+	font-style: italic;
 }
 .c-pointer:hover {
 	cursor:pointer;
@@ -111,7 +156,7 @@ a.text-dark:hover {
 	box-shadow:none;
 }
 .btn-link.btn-primary {
-	color:#202E7D;
+	color:#black;
 	border-color:transparent;
 }
 .btn-link.btn-secondary {
@@ -198,7 +243,7 @@ a.text-dark:hover {
 	font-size:.93rem;
 }
 .navbar .highlight .nav-link:hover {
-	background:#202E7D;
+	background:#black;
 	color:#fff !important;
 }
 .navbar-brand {
