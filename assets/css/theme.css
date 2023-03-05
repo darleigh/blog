@@ -77,8 +77,7 @@ a {
 	color:#007AFF;
 }
 a.text-dark:hover {
-	color:#007AFF !important;
-	font-style: italic;
+	color:#0A84FF !important;
 }
 .c-pointer:hover {
 	cursor:pointer;
@@ -381,19 +380,19 @@ a.text-dark:hover {
 	fill:#007AFF !important;
 }
 .bg-secondary {
-	fill:#7832e2 !important;
+	fill:#af52de !important;
 }
 .bg-success {
 	fill:#007AFF !important;
 }
 .bg-info {
-	fill:#09ebaf !important;
+	fill:#34c759 !important;
 }
 .bg-warning {
 	fill:#ffde03 !important;
 }
 .bg-danger {
-	fill:#ea2f65 !important;
+	fill:#FF3B30 !important;
 }
 .bg-light {
 	fill:#f8f9fa !important;
@@ -420,7 +419,7 @@ a.text-dark:hover {
 	fill:#502c6c !important;
 }
 .bg-orange {
-	fill:#fbb500 !important;
+	fill:#FF9500 !important;
 }
 .bg-lightblue {
 	fill:#e8f3ec !important;
