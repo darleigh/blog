@@ -74,10 +74,10 @@ a,a:hover {
 	text-decoration:none;
 }
 a {
-	color:#202E7D;
+	color:#007AFF;
 }
 a.text-dark:hover {
-	color:#202E7D !important;
+	color:#007AFF !important;
 	font-style: italic;
 }
 .c-pointer:hover {
@@ -164,7 +164,7 @@ a.text-dark:hover {
 	border-color:transparent;
 }
 .btn-link.btn-success {
-	color:#202E7D;
+	color:#007AFF;
 	border-color:transparent;
 }
 .btn-link.btn-info {
@@ -236,8 +236,8 @@ a.text-dark:hover {
 	font-weight:400;
 }
 .navbar .highlight .nav-link {
-	color:#202E7D !important;
-	border:1px solid #202E7D;
+	color:#007AFF !important;
+	border:1px solid #007AFF;
 	padding:0.3rem 1rem;
 	border-radius:3px;
 	font-size:.93rem;
@@ -378,13 +378,13 @@ a.text-dark:hover {
 	background-color:rgba(23,29,90,0.5);
 }
 .bg-primary {
-	fill:#202E7D !important;
+	fill:#007AFF !important;
 }
 .bg-secondary {
 	fill:#7832e2 !important;
 }
 .bg-success {
-	fill:#202E7D !important;
+	fill:#007AFF !important;
 }
 .bg-info {
 	fill:#09ebaf !important;
@@ -451,7 +451,7 @@ a.text-dark:hover {
 }
 .card a:hover {
 	text-decoration:none;
-	color:#202E7D;
+	color:#007AFF;
 }
 .card-pricing .card ul li {
 	margin-bottom:1.5rem;
@@ -481,8 +481,8 @@ a.text-dark:hover {
 }
 .alert-primary {
 	color:#fff;
-	background-color:#202E7D;
-	border-color:#202E7D;
+	background-color:#007AFF;
+	border-color:#007AFF;
 }
 .alert-primary hr {
 	border-top-color:#038f6a;
@@ -503,8 +503,8 @@ a.text-dark:hover {
 }
 .alert-success {
 	color:#fff;
-	background-color:#202E7D;
-	border-color:#202E7D;
+	background-color:#007AFF;
+	border-color:#007AFF;
 }
 .alert-success hr {
 	border-top-color:#038f6a;
