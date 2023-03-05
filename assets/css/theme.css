@@ -167,7 +167,7 @@ a.text-dark:hover {
 	border-color:transparent;
 }
 .btn-link.btn-info {
-	color:#09ebaf;
+	color:#007aff;
 	border-color:transparent;
 }
 .btn-link.btn-warning {
@@ -307,10 +307,10 @@ a.text-dark:hover {
 }
 .bd-search .form-control {
 	font-size:.85rem;
-	color:#999;
+	color:#black;
 	border-radius:30px;
-	height:35px;
-	border:1px solid #eee;
+	height: 35px;
+	border:1px solid #black;
 }
 .mb-2rem {
 	margin-bottom:2rem;
