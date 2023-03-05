@@ -3,11 +3,11 @@ layout: post
 title:  "Techniques for Agile Business Analyst"
 author: darley
 categories: [Business Analyst]
-image: https://darleigh.com/assets/images/3d/Saly-42.png
+image: https://darleigh.com/assets/images/3d/Saly-26.png
+num: TBA-030423
 ---
 # Index
 
-ID Number: **TBA-030423**
 
 1. [Product decomposition (T1BA)](#product-decompostion)
    - [Identify and slide user stories](#identify-and-slide-user-stories)
@@ -17,7 +17,7 @@ ID Number: **TBA-030423**
    - [Process model (T23BA)]()
    - [Data flow diagrams (T24BA)]()
    - [Customer journey map (T25BA)]()
-   - [User story map (T26BA)]()
+   - [User story map (T26BA)]() 
 3. [User stories (TU1BA)]()
 4. [Acceptance criteria (T4BA)]()
 5. [User story map (T5BA)]()
