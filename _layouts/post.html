@@ -12,14 +12,15 @@ layout: default
 						{% for category in page.categories %}
                           <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
                         {% endfor %}
+						{% for num in page.num %}
+						<!-- <a class="sscroll text-danger" href="{{site.baseurl}}/keybook.html#{{ num | downcase }}">{{ num | downcase }}</a><span class="sep">, </span> -->
+                        {% endfor %}
                         </span>
 					</p>
 					<h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
 					<p class="text-uppercase font-weight-bold">
                         <span class="catlist">
-						{% for num in page.num %}
-						{{page.num}}
-                        {% endfor %}
+						
                         </span>
 					</p>
 					<div class="d-flex align-items-center">
