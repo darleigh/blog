@@ -4,7 +4,6 @@ title: "Become a Business Analyst"
 author: darley
 categories: [Business Analyst]
 image: https://darleigh.com/assets/images/3d/Saly-13.png
-audio: 
 ---
 
 The end user needs and desires are changing every day, and how do we keep up with this and do requirements? The key to our success is to discover what's valuable to the stake-holder.
@@ -18,5 +17,8 @@ The detailed information below.
 |                                                     | PART 1 | Agile and the Business Analyst         |
 |                                                     | PART 2 | Agile Point of view                    |
 | ![]()                                                 | PART 3 | Backlog Management                     |
-| ![TBA230403](/Techniques-for-Agile-Business-Analyst/) | PART 4 | Techniques for Agile Business Analysts |
+| [TBA230403](/Techniques-for-Agile-Business-Analyst/) | PART 4 | Techniques for Agile Business Analysts |
 |                                                     | PART 5 | Agile Concepts for Business Analysts.  |
+
+# References
+- LinkedIn Learning, [Become a Business Analyst](https://www.linkedin.com/learning/paths/become-a-business-analyst).
