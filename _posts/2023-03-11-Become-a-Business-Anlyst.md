@@ -2,13 +2,15 @@
 layout: post
 title: "Become a Business Analyst"
 author: darley
-categories: [Business Analyst]
-image:
-num: BA
+categories:[Business Analyst]
+image: https://darleigh.com/assets/images/3d/Saly-13.png
+num: BA230311
 ---
 The end user needs and desires are changing everday, and how do we keep up with this and do requirements? The key to our success is to discover what's valuable to the stake-holder.
 
 Begin with technology environment, where change, ambiguity, complexity are the norm, product and software requirements analysis work is critical to sucess. I will provides an overwview of the mindset and techniques that are useful for working on an agile team with a roles in requirements. I hope these techniques will encourage both the business and techincal teams to come together as one to deliver value that delights customers.
+
+The detailed information below.
 
 | Site                                                | Index  | Title                                  |
 | --------------------------------------------------- | :----- | :------------------------------------- |
