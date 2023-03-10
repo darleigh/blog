@@ -4,7 +4,7 @@ title: "Become a Business Analyst"
 author: darley
 categories: [Business Analyst]
 image: https://darleigh.com/assets/images/3d/Saly-13.png
-
+audio: 
 ---
 
 The end user needs and desires are changing every day, and how do we keep up with this and do requirements? The key to our success is to discover what's valuable to the stake-holder.
