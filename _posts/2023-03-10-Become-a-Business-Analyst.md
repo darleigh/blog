@@ -6,19 +6,17 @@ categories: [Business Analyst]
 image: https://darleigh.com/assets/images/3d/Saly-13.png
 ---
 
-The end user needs and desires are changing every day, and how do we keep up with this and do requirements? The key to our success is to discover what's valuable to the stake-holder.
+The needs and desires of end-users are constantly changing, and it can be challenging to keep up with these changes and identify their requirements. The key to success is discovering what is valuable to the stakeholder.
 
-Begin with technology environment, where change, ambiguity, complexity are the norm, product and software requirements analysis work is critical to sucess. I will provides an overwview of the mindset and techniques that are useful for working on an agile team with a roles in requirements. I hope these techniques will encourage both the business and techincal teams to come together as one to deliver value that delights customers.
-
-The detailed information below.
+In a technology environment where change, ambiguity, and complexity are the norm, analyzing product and software requirements is critical to success. I will provide an overview of the mindset and techniques that are useful for working on an agile team with roles in requirements. These techniques will hopefully encourage both business and technical teams to work together effectively and deliver value that delights customers.
 
 | Site                                                | Index  | Title                                  |
 | --------------------------------------------------- | :----- | :------------------------------------- |
-|                                                     | PART 1 | Agile and the Business Analyst         |
-|                                                     | PART 2 | Agile Point of view                    |
-| ![]()                                                 | PART 3 | Backlog Management                     |
-| [TBA230403](/Techniques-for-Agile-Business-Analyst/) | PART 4 | Techniques for Agile Business Analysts |
-|                                                     | PART 5 | Agile Concepts for Business Analysts.  |
+|                                                     | Part 1 | Agile and the Business Analyst         |
+|                                                     | Part 2 | Agile Point of view                    |
+| ![]()                                                 | Part 3 | Backlog Management                     |
+| [TBA230403](/Techniques-for-Agile-Business-Analyst/) | Part 4 | Techniques for Agile Business Analysts |
+|                                                     | Part 5 | Agile Concepts for Business Analysts.  |
 
 # References
 - LinkedIn Learning, [Become a Business Analyst](https://www.linkedin.com/learning/paths/become-a-business-analyst).
