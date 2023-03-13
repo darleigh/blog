@@ -9,7 +9,7 @@
 	margin-bottom: 24px;
 	background-color: transparent;
 	color: #333;
-	font-size: 20px;
+	font-size: 18px;
 	line-height: 1.5;
 	/* border-radius: 2px; */
 	overflow: hidden;
@@ -75,10 +75,10 @@ a,a:hover {
 	text-decoration:none;
 }
 a {
-	color:#007AFF;
+	color:var(--primary);
 }
 a.text-dark:hover {
-	color:#0A84FF !important;
+	color:var(--primary) !important;
 }
 .c-pointer:hover {
 	cursor:pointer;
@@ -164,11 +164,11 @@ a.text-dark:hover {
 	border-color:transparent;
 }
 .btn-link.btn-success {
-	color:#007AFF;
+	color:var(--primary);
 	border-color:transparent;
 }
 .btn-link.btn-info {
-	color:#007aff;
+	color:var(--primary);
 	border-color:transparent;
 }
 .btn-link.btn-warning {
@@ -236,8 +236,8 @@ a.text-dark:hover {
 	font-weight:400;
 }
 .navbar .highlight .nav-link {
-	color:#007AFF !important;
-	border:1px solid #007AFF;
+	color:var(--primary) !important;
+	border:1px solid var(--primary);
 	padding:0.3rem 1rem;
 	border-radius:3px;
 	font-size:.93rem;
@@ -378,7 +378,7 @@ a.text-dark:hover {
 	background-color:rgba(23,29,90,0.5);
 }
 .bg-primary {
-	fill:#007AFF !important;
+	fill:var(--primary) !important;
 }
 .bg-secondary {
 	fill:#af52de !important;
@@ -387,7 +387,7 @@ a.text-dark:hover {
 	fill:#34c759 !important;
 }
 .bg-info {
-	fill:#007AFF !important;
+	fill:var(--primary) !important;
 }
 .bg-warning {
 	fill:#ffde03 !important;
@@ -451,7 +451,7 @@ a.text-dark:hover {
 }
 .card a:hover {
 	text-decoration:none;
-	color:#007AFF;
+	color:var(--primary);
 }
 .card-pricing .card ul li {
 	margin-bottom:1.5rem;
@@ -481,11 +481,11 @@ a.text-dark:hover {
 }
 .alert-primary {
 	color:#fff;
-	background-color:#007AFF;
-	border-color:#007AFF;
+	background-color:var(--primary);
+	border-color:var(--primary);
 }
 .alert-primary hr {
-	border-top-color:#007AFF;
+	border-top-color:var(--primary);
 }
 .alert-primary .alert-link {
 	color:#e6e6e6;
@@ -503,8 +503,8 @@ a.text-dark:hover {
 }
 .alert-success {
 	color:#fff;
-	background-color:#007AFF;
-	border-color:#007AFF;
+	background-color:var(--primary);
+	border-color:var(--primary);
 }
 .alert-success hr {
 	border-top-color:#038f6a;
@@ -514,11 +514,11 @@ a.text-dark:hover {
 }
 .alert-info {
 	color:#fff;
-	background-color:#007AFF;
-	border-color:#007AFF;
+	background-color:var(--primary);
+	border-color:var(--primary);
 }
 .alert-info hr {
-	border-top-color:#007AFF;
+	border-top-color:var(--primary);
 }
 .alert-info .alert-link {
 	color:#e6e6e6;
