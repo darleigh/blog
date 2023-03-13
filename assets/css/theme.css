@@ -1,36 +1,7 @@
 /*!
  * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
  */
- sup {
-	position: relative;
-  }
-  
-  sup:before {
-	content: counter(footnote);
-	counter-increment: footnote;
-	position: absolute;
-	top: -0.1em;
-	left: -0.2em;
-	font-size: 80%;
-	padding: 0.2em 0.3em 0em 0.3em;
-	border-radius: 10%;
-	background: #D9EBFF;
-	color: var(--primary);
-	font-weight: bold;
-	transition: all 0.3s ease;
-  }
-  
-  sup:hover:before {
-	background: var(--primary);
-	color: #fff;
-  }
-  sup + span {
-	margin-left: 1em; /* Add space here */
-  }
-  sup + sup {
-	margin-left: 1.1em;
-}
-
+ 
  table {
 	border-collapse: collapse;
 	width: 100%;
@@ -102,19 +73,12 @@ img {
 a,a:hover {
 	transition:all .2s;
 	text-decoration:none;
-	color: #fff; /* changes the link color to white when hovering over it */
-	background-color: var(--primary); /* uses the --primary variable as the background color */
 }
-/* a {
-	color:var(--primary);
-} */
+a {
+	color:#007AFF;
+}
 a.text-dark:hover {
-	padding: 0.2em 0.25em 0.1em 0.25em;
-	border-radius: 4px;
-	background: #D9EBFF;
-	transition: all 0.5s ease;
-  	text-decoration: none;
-	color:var(--primary) !important;
+	color:#0A84FF !important;
 }
 .c-pointer:hover {
 	cursor:pointer;
@@ -200,11 +164,11 @@ a.text-dark:hover {
 	border-color:transparent;
 }
 .btn-link.btn-success {
-	color:var(--primary);
+	color:#007AFF;
 	border-color:transparent;
 }
 .btn-link.btn-info {
-	color:var(--primary);
+	color:#007aff;
 	border-color:transparent;
 }
 .btn-link.btn-warning {
@@ -272,8 +236,8 @@ a.text-dark:hover {
 	font-weight:400;
 }
 .navbar .highlight .nav-link {
-	color:var(--primary) !important;
-	border:1px solid var(--primary);
+	color:#007AFF !important;
+	border:1px solid #007AFF;
 	padding:0.3rem 1rem;
 	border-radius:3px;
 	font-size:.93rem;
@@ -414,7 +378,7 @@ a.text-dark:hover {
 	background-color:rgba(23,29,90,0.5);
 }
 .bg-primary {
-	fill:var(--primary) !important;
+	fill:#007AFF !important;
 }
 .bg-secondary {
 	fill:#af52de !important;
@@ -423,7 +387,7 @@ a.text-dark:hover {
 	fill:#34c759 !important;
 }
 .bg-info {
-	fill:var(--primary) !important;
+	fill:#007AFF !important;
 }
 .bg-warning {
 	fill:#ffde03 !important;
@@ -487,7 +451,7 @@ a.text-dark:hover {
 }
 .card a:hover {
 	text-decoration:none;
-	color:var(--primary);
+	color:#007AFF;
 }
 .card-pricing .card ul li {
 	margin-bottom:1.5rem;
@@ -517,11 +481,11 @@ a.text-dark:hover {
 }
 .alert-primary {
 	color:#fff;
-	background-color:var(--primary);
-	border-color:var(--primary);
+	background-color:#007AFF;
+	border-color:#007AFF;
 }
 .alert-primary hr {
-	border-top-color:var(--primary);
+	border-top-color:#007AFF;
 }
 .alert-primary .alert-link {
 	color:#e6e6e6;
@@ -539,8 +503,8 @@ a.text-dark:hover {
 }
 .alert-success {
 	color:#fff;
-	background-color:var(--primary);
-	border-color:var(--primary);
+	background-color:#007AFF;
+	border-color:#007AFF;
 }
 .alert-success hr {
 	border-top-color:#038f6a;
@@ -550,11 +514,11 @@ a.text-dark:hover {
 }
 .alert-info {
 	color:#fff;
-	background-color:var(--primary);
-	border-color:var(--primary);
+	background-color:#007AFF;
+	border-color:#007AFF;
 }
 .alert-info hr {
-	border-top-color:var(--primary);
+	border-top-color:#007AFF;
 }
 .alert-info .alert-link {
 	color:#e6e6e6;
