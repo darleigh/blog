@@ -12,8 +12,8 @@ layout: default
 						{% for category in page.categories %}
                           <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
                         {% endfor %}
-						{% for num in page.num %}
-							{{page.num}}
+						{% for tag in page.tags %}
+						<a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/tags.html#{{tag}}"></a>
 						<!-- <a class="sscroll text-danger" href="{{site.baseurl}}/keybook.html#{{ num | downcase }}">{{ num | downcase }}</a><span class="sep">, </span> -->
                         {% endfor %}
                         </span>
