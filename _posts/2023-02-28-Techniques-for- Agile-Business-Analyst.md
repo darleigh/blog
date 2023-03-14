@@ -4,7 +4,7 @@ title:  "Techniques for Agile Business Analyst"
 author: darley
 categories: [Business Analyst]
 image: https://darleigh.com/assets/images/3d/Saly-26.png
-num: TBA230403
+tags: [Become a Business Analyst]
 ---
 # Index
 
