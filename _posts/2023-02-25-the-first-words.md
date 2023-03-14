@@ -4,6 +4,7 @@ title:  "Welcome here"
 author: darley
 categories: [Daily]
 image: https://darleigh.com/assets/images/3d/Saly-38.png
+tags: [sticky]
 ---
 Blog can be a daunting task, but it's also an exciting opportunity to share your thoughts, ideas, and experiences with the world. We are thrilled to welcome you to our blog and invite you to join us on this journey of exploration and discovery.
 
