@@ -13,7 +13,7 @@ layout: default
                           <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
                         {% endfor %}
 						{% for tag in page.tags %}
-						<a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/tags.html#{{tag}}">{{page.tags}}</a>
+						<a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/tags.html#{{tag[0]}}">{{page.tags[0]}}</a>
 						<!-- <a class="sscroll text-danger" href="{{site.baseurl}}/keybook.html#{{ num | downcase }}">{{ num | downcase }}</a><span class="sep">, </span> -->
                         {% endfor %}
                         </span>
