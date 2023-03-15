@@ -4,7 +4,7 @@ title: "Business process Modeling"
 author: darley
 categories: [Business Analyst]
 image: https://img.freepik.com/premium-psd/3d-rendering-graphic-design-element_23-2149412216.jpg?w=1800
-tags: [Business process Modeling, feature]
+tags: [Business process Modeling, featured]
 ---
 These constant changes require the organization to be aware of how they perform their activities, and how these activities fit into the bigger picture of achieving their expected outcomes and goals. This is where business process modeling comes in.
 
