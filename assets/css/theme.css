@@ -23,8 +23,15 @@
 	color: #D9EBFF;
   } */
 .article-post .postTitle{
-	font-size: 24px;
+	font-size: 22px;
 	font-weight: bold;
+	background-color: white;
+	transition: all 0.5s ease;
+}
+.article-post .postTitle:hover{
+	background-color: white;
+	color:var(--primary);
+	transition: all 0.5s ease;
 }
 .article-post a {
 padding: 0.2em 0.3em 0.1em 0.3em;
