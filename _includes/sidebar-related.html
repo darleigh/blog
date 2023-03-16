@@ -1,4 +1,8 @@
-{% assign current_tags = page.tags %}
+
+<div class="col-md-12 col-lg-8">
+    <h4 class="font-weight-bold spanborder"><span>Related topics</span></h4>  
+    <ol class="list-featured">				
+        {% assign current_tags = page.tags %}
 {% for post in site.posts %}
   {% assign post_tags = post.tags %}
   {% if post_tags contains any current_tags %}
@@ -35,3 +39,6 @@
     </li>
   {% endfor %}
 {% endfor %}
+        
+    </ol>
+</div> 
