@@ -1,26 +1,37 @@
 <div class="sticky-top sticky-top-offset">
     <h4 class="font-weight-bold spanborder"><span>Related topics</span></h4>  
-    <ol class="list-featured">                
+    <ol class="list-featured">				
         {% assign current_tags = page.tags %}
-        {% assign related_posts = site.posts | where_exp: "post", "post.tags.size > 0" | sort: 'date' | reverse %}
-        {% for post in related_posts %}
+        {% assign first_tag = current_tags | first %}
+        {% assign first_posts = {} %}
+        {% for post in site.posts %}
             {% assign post_tags = post.tags %}
-            {% if post_tags contains any current_tags and post.url != page.url %}
-                <li class="mb-4">
-                    <span>
-                        <h6 class="font-weight-bold">
-                            <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
-                        </h6>
-                        <span class="d-block text-muted">
-                            In <span class="catlist">
-                                {% for category in post.categories %}
-                                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                                {% endfor %}
-                            </span>
-                        </span>
-                    </span>
-                </li>
+            {% if post_tags contains first_tag %}
+                {% for tag in post_tags %}
+                    {% if current_tags contains tag %}
+                        {% unless first_posts[tag] %}
+                            {% capture first_posts_content %}<li class="col-12">
+                                <span>
+                                    <h6 class="font-weight-bold">
+                                        <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
+                                    </h6>
+                                    <span class="d-block text-muted">
+                                        In <span class="catlist">
+                                            {% for category in post.categories %}
+                                                <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                                            {% endfor %}
+                                        </span>
+                                    </span>
+                                </span>
+                            </li>{% endcapture %}
+                            {% assign first_posts[tag] = first_posts_content %}
+                        {% endunless %}
+                    {% endif %}
+                {% endfor %}
             {% endif %}
+        {% endfor %}
+        {% for post in first_posts %}
+        {{ first_posts[post] }}
         {% endfor %}
     </ol>
 </div>
