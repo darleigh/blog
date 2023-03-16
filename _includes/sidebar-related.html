@@ -1,7 +1,7 @@
 <div class="sticky-top sticky-top-offset">
     <h4 class="font-weight-bold spanborder"><span>Related topics</span></h4>  
     <ol class="list-featured">				
-        {% assign current_tags = page.tags %}
+        {% assign current_tags = site.page.tags %}
         {% assign first_tag = current_tags | first %}
         {% assign first_posts = {} %}
         {% for post in site.posts %}
