@@ -1,44 +1,21 @@
-
 <div class="sticky-top sticky-top-offset">
     <h4 class="font-weight-bold spanborder"><span>Related topics</span></h4>  
     <ol class="list-featured">				
-        {% assign current_tags = page.tags %}
-        {% for post in site.posts %}
-        {% assign post_tags = post.tags %}
-        {% if post_tags contains any current_tags %}
-            <li class="mb-4">
+        {% for post in site.tags.featured %}                
+            <li class="mb-4 col-lg-4">
             <span>
                 <h6 class="font-weight-bold">
-                <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
+                    <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
                 </h6>
                 <span class="d-block text-muted">
-                In <span class="catlist">
+                    In <span class="catlist">
                     {% for category in post.categories %}
                     <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                     {% endfor %}
-                </span>
+                    </span>
                 </span>
             </span>
-            </li>
-        {% endif %}
-            {% else %}
-                {% for post in site.tags.featured %}
-                    <li class="mb-4">
-                    <span>
-                        <h6 class="font-weight-bold">
-                        <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
-                        </h6>
-                        <span class="d-block text-muted">
-                        In <span class="catlist">
-                            {% for category in post.categories %}
-                            <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                            {% endfor %}
-                        </span>
-                        </span>
-                    </span>
-                    </li>
-                {% endfor %}
-        {% endfor %}
-        
+            </li>                
+        {% endfor %}   
     </ol>
 </div> 
