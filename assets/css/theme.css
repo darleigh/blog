@@ -7,22 +7,17 @@
 	position: relative;
 }
 
-.article-post .footnote a:before, .reversefootnote a:before{
-	position: absolute;
-	top: -0.1em;
-	left: -0.2em;
-	font-size: 80%;
-	padding: 0.2em 0.3em 0em 0.3em;
-	border-radius: 10%;
-	background: #D9EBFF;
-	color: var(--primary);
-	font-weight: bold;
-	transition: all 0.3s ease;
-}
 .article-post .footnote a:hover:before, .reversefootnote a:hover:before {
 	background: var(--primary);
 	color: #D9EBFF;
   } */
+  .article-post a.footnote,a.reversefootnote{
+	font-size: 90%;
+	padding: 0em 0.2em 0em 0.2em;
+	border-radius: 2px;
+	/* font-weight: bold; */
+	transition: all 0.3s ease;
+}
 .article-post a {
 	padding: 0.2em 0.3em 0.1em 0.3em;
 	border-radius: 4px;
@@ -39,16 +34,17 @@
 	text-decoration: none;
 }
 
-.article-post .list-featured .postTitle h6{
+a.postTitle {
 	font-size: 20px;
 	font-weight: bold;
 	color:black;
-	background-color: white;
 }
-.article-post .list-featured .postTitle h6:hover{
-	background-color: white;
+
+a.postTitle:hover{
+	font-size: 20px;
+	font-weight: bold;
 	color:var(--primary);
-	transition: all 0.5s ease;
+    transition: all 0.3s ease;
 }
 
 table {
