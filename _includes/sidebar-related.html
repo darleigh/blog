@@ -7,7 +7,7 @@
         {% for related_post_group in related_posts_by_tag %}
             {% assign related_post = related_post_group.items.first %}
             {% assign related_post_tags = related_post.tags %}
-            {% if related_post_tags.size > 0 and related_post_tags contains none in 'featured' %}
+            {% if related_post_tags.size > 0 %}
                 {% for tag in related_post_tags %}
                     {% if current_tags contains tag %}
                         <li class="mb-4">
