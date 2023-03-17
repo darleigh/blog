@@ -4,7 +4,6 @@ title: "Principles in negotiation for any Business Analyst"
 author: darley
 categories: [Business Analyst]
 image: https://darleigh.com/assets/images/3d/Saly-31.png
-tags: [Become a Business Analyst]
 ---
 In my view, with any exchange, there is value for both parties involved, from each person's perspective, albeit in varying degrees. Especially in a Business Analyst position, we should have clarity in understanding what the customer needs, and what value we can deliver to the stakeholders, similar to **Bloom Taxonomy Model** (a topic describing them and compare them with other models, especially BACCM[^1], which will complete soon).
 
