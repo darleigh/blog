@@ -11,6 +11,27 @@
 	background: var(--primary);
 	color: #D9EBFF;
   } */
+.article-post h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+}
+.article-post h1 {
+		font-size: 1.5em;
+		line-height: 1.4em;
+	}
+.article-post h2 {
+		font-size: 1.43em;
+	}
+.article-post h3 {
+		font-size: 1.25em;
+	}
+.article-post h4, h5, h6 {
+	font-size: 1em;
+	margin: 1em 0;
+}
+.article-post p{
+	font-size: 1em;
+	margin: 1em 0;
+}
   .article-post a.footnote,a.reversefootnote{
 	font-size: 90%;
 	padding: 0em 0.2em 0em 0.2em;
@@ -18,7 +39,7 @@
 	/* font-weight: bold; */
 	transition: all 0.3s ease;
 }
-.article-post a {
+.article-post a{
 	padding: 0.2em 0.3em 0.1em 0.3em;
 	border-radius: 4px;
 	font-weight: normal;
