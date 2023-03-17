@@ -22,7 +22,7 @@
 	background: var(--primary);
 	color: #D9EBFF;
   } */
-.article-post .postTitle{
+/* .article-post .postTitle{
 	font-size: 20px;
 	font-weight: bold;
 	background-color: white;
@@ -32,22 +32,22 @@
 	background-color: white;
 	color:var(--primary);
 	transition: all 0.5s ease;
-}
+} */
 .article-post .site-content a {
-padding: 0.2em 0.3em 0.1em 0.3em;
+	padding: 0.2em 0.3em 0.1em 0.3em;
 	border-radius: 4px;
 	font-weight: normal;
 	background: #D9EBFF;
 	transition: all 0.5s ease;
-color: var(--primary); /* uses the --primary variable as the link color */
-text-decoration: none;
+	color: var(--primary); /* uses the --primary variable as the link color */
+	text-decoration: none;
 }
 
-.article-post .site-content a:hover {
-color: #D9EBFF; /* changes the link color to white when hovering over it */
-background-color: var(--primary); /* uses the --primary variable as the background color */
-text-decoration: none;
-}
+/* .article-post .site-content a:hover {
+	color: #D9EBFF;
+	background-color: var(--primary);
+	text-decoration: none;
+} */
 
 table {
 	border-collapse: collapse;
