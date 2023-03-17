@@ -13,9 +13,9 @@
                         <li class="mb-4">
                             <span>
                                 <h6>
-                                    <a href="{{site.baseurl}}{{ related_post.url }}" class="postTitle" style="font-size:22px;">{{ related_post.title }}</a>
+                                    <a href="{{site.baseurl}}{{ related_post.url }}" class="postTitle">{{ related_post.title }}</a>
                                 </6>
-                                <p style="color:black; font-weight: normal;">
+                                <p style="color:black; font-weight: normal;line-height: 1.25;padding-top:0.25em">
                                     {{ related_post.excerpt | strip_html | strip_newlines | truncate: 150 }}
                                 </p>
                                 <!-- <span class="d-block text-muted">

@@ -23,17 +23,6 @@
 	background: var(--primary);
 	color: #D9EBFF;
   } */
-.article-post .postTitle h6{
-	font-size: 22px;
-	font-weight: bold;
-	color:#000;
-	background-color: white;
-}
-.article-post .postTitle h6:hover{
-	background-color: white;
-	color:var(--primary);
-	transition: all 0.5s ease;
-}
 .article-post a {
 	padding: 0.2em 0.3em 0.1em 0.3em;
 	border-radius: 4px;
@@ -48,6 +37,18 @@
 	color: #D9EBFF;
 	background-color: var(--primary);
 	text-decoration: none;
+}
+
+.article-post .list-featured .postTitle h6{
+	font-size: 20px;
+	font-weight: bold;
+	color:black;
+	background-color: white;
+}
+.article-post .list-featured .postTitle h6:hover{
+	background-color: white;
+	color:var(--primary);
+	transition: all 0.5s ease;
 }
 
 table {
