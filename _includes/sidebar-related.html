@@ -15,6 +15,9 @@
                                 <h6>
                                     <a href="{{site.baseurl}}{{ related_post.url }}" class="postTitle">{{ related_post.title }}</a>
                                 </6>
+                                <p class="excerpt">
+                                    {{ related_post.excerpt | strip_html | strip_newlines | truncate: 100 }}
+                                </p>
                                 <!-- <span class="d-block text-muted">
                                     In <span class="catlist">
                                         {% for category in related_post.categories %}
