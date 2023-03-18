@@ -13,25 +13,31 @@
   } */
 .article-post h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;
+	font-family: 'New York', serif;
 }
 .article-post h1 {
 		font-size: 1.5em;
 		line-height: 1.4em;
+		font-family: 'New York', serif;
 	}
 .article-post h2 {
 		font-size: 1.43em;
+		font-family: 'New York', serif;
 	}
 .article-post h3 {
 		font-size: 1.25em;
+		font-family: 'New York', serif;
 	}
 .article-post h4, h5, h6 {
 	font-size: 1em;
-	margin: 1em 0;
+	margin: 1.1em 0;
+	font-family: 'New York', serif;
 }
 .article-post p {
 	font-size: 1em;
 	margin: 1em 0;
-	line-height: 0.8em;
+	line-height: 1.15em;
+	font-family: 'New York', serif;
 }
   .article-post a.footnote,a.reversefootnote{
 	font-size: 90%;
