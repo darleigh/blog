@@ -11,8 +11,12 @@
 	background: var(--primary);
 	color: #D9EBFF;
   } */
+  .article-post p, h1, h2, h3, h4, h5, h6 {
+	font-family: 'New York', serif;
+}
 .article-post h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;
+	font-family: 'New York', serif;
 }
 .article-post h1 {
 		font-size: 1.5em;
@@ -30,7 +34,12 @@
 }
 .article-post p {
 	font-size: 1em;
+	margin: 1em 0;
+}
+.article-post th,td,{
+    font-size: 1em;
 	margin: 1em 1;
+    font-family: 'New York', serif;
 }
   .article-post a.footnote,a.reversefootnote{
 	font-size: 90%;
