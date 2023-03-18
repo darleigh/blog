@@ -42,7 +42,13 @@
   --breakpoint-xl: 1200px;
   --font-family-sans-serif: "Segoe UI", "Helvetica Neue", "Arial";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
-
+@font-face {
+  font-family: 'New York';
+  src:
+    url('/assets/fonts/NewYork.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 *,
 *::before,
 *::after {

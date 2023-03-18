@@ -28,9 +28,10 @@
 	font-size: 1em;
 	margin: 1em 0;
 }
-.article-post p{
+.article-post p {
 	font-size: 1em;
 	margin: 1em 0;
+	line-height: 0.8em;
 }
   .article-post a.footnote,a.reversefootnote{
 	font-size: 90%;
